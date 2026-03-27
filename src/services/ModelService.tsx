@@ -5,7 +5,7 @@ import { ONNX, ModelArtifactType } from '@runanywhere/onnx';
 
 // Model IDs - matching sample app model registry
 // See: /Users/shubhammalhotra/Desktop/test-fresh/runanywhere-sdks/examples/react-native/RunAnywhereAI/App.tsx
-const MODEL_IDS = {
+export const MODEL_IDS = {
   llm: 'lfm2-350m-q8_0', // LiquidAI LFM2 - fast and efficient
   stt: 'sherpa-onnx-whisper-tiny.en',
   tts: 'vits-piper-en_US-lessac-medium',

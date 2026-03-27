@@ -73,8 +73,8 @@ export const ChatScreen: React.FC = () => {
         text: responseRef.current,
         isUser: false,
         timestamp: new Date(),
-        tokensPerSecond: finalResult.performanceMetrics?.tokensPerSecond,
-        totalTokens: finalResult.performanceMetrics?.totalTokens,
+        tokensPerSecond: finalResult.tokensPerSecond,
+        totalTokens: finalResult.tokensUsed,
       };
       setMessages(prev => [...prev, assistantMessage]);
       setCurrentResponse('');

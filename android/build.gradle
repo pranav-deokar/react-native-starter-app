@@ -32,6 +32,15 @@ subprojects {
             }
         }
     }
+    
+    // Fix AsyncStorage missing dependency
+    repositories {
+        google()
+        mavenCentral()
+        maven {
+            url = uri("https://jitpack.io")
+        }
+    }
 }
 
 // =============================================================================
