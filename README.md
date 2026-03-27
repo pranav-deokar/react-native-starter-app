@@ -7,6 +7,36 @@
 
 ---
 
+## 📱 Try AgroSmart (APK Download)
+
+👉 Download the latest APK from here:
+https://drive.google.com/drive/folders/1yuFBN3LdYLp2paYaTVniNpM1NgA2xk9h?usp=drive_link
+
+---
+
+## ⚠️ Installation Instructions (Important)
+
+* After installing the APK, **allow required permissions** when prompted
+* The app **does NOT require internet/data access**, so there are **no data privacy concerns**
+* If your device shows a warning for unknown apps, allow installation from that source
+
+---
+
+## ⏳ Note for First-Time Use
+
+* The first AI response may take a few seconds as the model initializes on-device
+* This is expected behavior for offline AI
+* After the initial run, responses will be faster
+
+---
+
+## 🔒 Privacy Assurance
+
+* No data is sent to any server
+* All processing happens locally on your device
+* Fully offline and secure by design
+
+---
 ## 🧠 Vision
 
 Agriculture decisions in rural areas are still based on guesswork due to lack of accessible intelligence.
