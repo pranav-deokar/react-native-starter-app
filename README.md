@@ -7,6 +7,14 @@
 
 ---
 
+
+## 📱 See what it delivers
+
+👉 Access the full ppt here:
+[https://drive.google.com/drive/folders/1yuFBN3LdYLp2paYaTVniNpM1NgA2xk9h?usp=drive_link](https://docs.google.com/presentation/d/1zuTNhlgGOOK4DerDnxsH9KFZ078UO0Cg/edit?usp=drive_link&ouid=111511758977054834795&rtpof=true&sd=true)
+
+---
+
 ## 📱 Try AgroSmart (APK Download)
 
 👉 Download the latest APK from here:
